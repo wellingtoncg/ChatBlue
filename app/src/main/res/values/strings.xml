@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatBlue</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usuário</string>
+    <string name="nav_header_subtitle">Usuário</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="none_paired">Nenhum dispisitivo pareado</string>
+    <string name="none_found">Dispositivo não existe</string>
+</resources>
